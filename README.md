@@ -1,2 +1,2 @@
 # Odin-Recipes
-Html- Recipes project on Odin Project
+Recipes project on Odin Project
